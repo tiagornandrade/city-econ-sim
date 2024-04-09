@@ -95,7 +95,3 @@ class InitGame:
             else:
                 print("Escolha inválida. Tente novamente.")
                 time.sleep(2)
-
-
-if __name__ == "__main__":
-    InitGame.start()
