@@ -43,7 +43,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue se enc
 
 ## Autores
 
-Este jogo foi desenvolvido por [Seu Nome] como parte de um projeto pessoal.
+Este jogo foi desenvolvido por [Tiago Navarro](https://github.com/tiagornandrade) como parte de um projeto pessoal.
 
 ## Licença
 
