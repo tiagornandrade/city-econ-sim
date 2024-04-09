@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de README em português para o jogo de simulação econômica:
-
----
-
 # Jogo de Simulação Econômica
 
 Bem-vindo ao Jogo de Simulação Econômica! Este é um jogo interativo onde você assume o papel de governante de uma cidade e precisa tomar decisões econômicas estratégicas para o seu desenvolvimento.
@@ -48,7 +44,3 @@ Este jogo foi desenvolvido por [Tiago Navarro](https://github.com/tiagornandrade
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-Sinta-se à vontade para personalizar este README conforme necessário, incluindo informações adicionais sobre o jogo ou instruções específicas de uso.
